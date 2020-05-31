@@ -42,3 +42,8 @@ See the companion DXFPreprocessing Script to generate matrixed device chips.
 This code plots the nearest version of the input DXF used as an input to the BEAMER flow. However, checking the EBL file output file is read by the EBL software is always reccomended.
 
 PLEASE REPORT BUGS to aksaydjari@gmail.com (suggestiions/code contributions are also appreciated)
+
+## Installation
+
+Simply use conda to create a new enviornment using the yml file provided. See the conda documentation. 
+Use of miniconda instead of full Anaconda is suggested.
