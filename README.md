@@ -47,3 +47,7 @@ PLEASE REPORT BUGS to aksaydjari@gmail.com (suggestions/code contributions are a
 
 Simply use conda to create a new enviornment using the yml file provided. See the conda documentation. 
 Use of miniconda instead of full Anaconda is suggested.
+
+## Version Control
+Please download the most recent version from
+https://github.com/andrew-saydjari/DXFProcessors
