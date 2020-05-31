@@ -41,7 +41,7 @@ To implment not on the Harvard BEAMER computer, you will need to change the path
 See the companion DXFPreprocessing Script to generate matrixed device chips.
 This code plots the nearest version of the input DXF used as an input to the BEAMER flow. However, checking the EBL file output file is read by the EBL software is always reccomended.
 
-PLEASE REPORT BUGS to aksaydjari@gmail.com (suggestiions/code contributions are also appreciated)
+PLEASE REPORT BUGS to aksaydjari@gmail.com (suggestions/code contributions are also appreciated)
 
 ## Installation
 
