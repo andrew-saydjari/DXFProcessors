@@ -1,0 +1,13 @@
+name: dxf
+channels:
+  - conda-forge
+dependencies:
+  - descartes
+  - ezdxf
+  - fiona
+  - geopandas
+  - matplotlib
+  - numpy
+  - python=3.6.10
+  - scipy
+  - shapely
